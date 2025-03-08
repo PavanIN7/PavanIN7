@@ -1,12 +1,12 @@
-# Hi there, I'm Ravi! 👋
+# Hi there, I'm Pavan! 👋
 
 
 ## About Me
-- 🎓 Education: Bachelor of Computer Application(BCA) from JSS Shri Manjunatheshwara Institute Of UG. & PG. Studies Dharwad
+- 🎓 Education: Masters of Computer Application(MCA) from BMS Institute of Technology and Management, Bnagalore
 - 💼 Current Role: Student
 - 🌱 Learning: FullStack 
 - 🎯 Goals: Web developer
-- 🌐 Website: https://ravib45.github.io/Ravib_profile/
+- 🌐 Website: 
 
 
 ## Skills
@@ -18,15 +18,15 @@
 ## Contact
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ravibarker/" target="_blank">
+  <a href="(https://www.linkedin.com/in/pavan-i-n-109540333/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>&nbsp &nbsp
   <!-- Email -->
- <a href="mailto:ravibarker45@gmail.com" target="_blank">
+ <a href="mailto:pavanyoga07@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" height="30" width="40" />
   </a>&nbsp &nbsp
   <!-- GitHub -->
-  <a href="https://github.com/Ravib45" target="_blank">
+  <a href="https://github.com/PavanIN7" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Profile" height="30" width="40" />
   </a>
 </p>
